@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678523925 source:d:\my code\c++\usage of friend function\main.cpp
+	"Education.h"
+
+1678523878 d:\my code\c++\usage of friend function\education.h
+	<iostream>
+
